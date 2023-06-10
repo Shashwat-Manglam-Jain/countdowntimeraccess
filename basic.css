@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+  box-sizing: border-box;
+  font-family: 'popins', sans-serif;
+  text-align: center;
+}
+
+.f{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;  
+   
+}
+
+.t {text-align: center;
+    top: 0%;
+    position: fixed;
+ left: 38.5%;
+color: rgb(240, 197, 24) !important;
+}
+.t2{
+    text-align: center !important;
+    top: 013%;
+    left: 30%;
+    color: wheat;
+    position: fixed;
+}
+
+
+
+.i{
+    height: 100%;
+    width: 100%;  
+   filter:brightness(20%) ;
+}
+
+.align{ color: rgb(240, 197, 24) !important;
+font-family: fantasy;
+display: flex;
+justify-content: space-around;
+width: 100%;
+position: fixed;
+top: 25%;
+text-align: centre !important;
+font-weight: 800;
+}
+.m{
+    border: ;
+}
